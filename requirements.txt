@@ -12,3 +12,4 @@ flask
 # To check the git status ---> git status 
 # To add the changes in git --> git add .
 # Also after this u need to do this --> git commit -m "all file added" -->This is for all files 
+# To push file on github --> git push -u origin main
