@@ -1,1 +1,7 @@
-venv
+# The folders which we don't want to add over 
+# github that folder will keep inside this .gitignore file
+
+venv 
+build
+Censuse_Income.egg-info
+dist
